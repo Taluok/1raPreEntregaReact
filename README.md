@@ -11,4 +11,4 @@ Instalación
 1. Clona este repositorio:
 
    ```bash
-   git clone https://github.com/1raPreEntregaReact/1raPreEntregaReact.git
+   git clone https://github.com/Taluok/1raPreEntregaReact.git
